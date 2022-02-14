@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+The program consisted of creating a list of multiple objects. Another variable, 'randomized', was created using the 'random.choice' command, which allows for a random object to be picked from the list. Upon running multiple times, it is confirmed that the selection is random.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+None.
 
 ## REFERENCES:
- < List any outside resources used >
+None.
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+None.
